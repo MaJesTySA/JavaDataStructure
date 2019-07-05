@@ -2,13 +2,10 @@ package linear;
 
 public class SingleLinkedListDemo {
     public static void main(String[] args) {
-        Node node1=new Node(20);
-        Node node2=new Node(30);
-        Node node3=new Node(50);
         SingleLinkedList linkedList=new SingleLinkedList();
-        linkedList.addNode(node1);
-        linkedList.addNode(node2);
-        linkedList.addNode(node3);
+        linkedList.addNode(new Node(20));
+        linkedList.addNode(=new Node(30));
+        linkedList.addNode(new Node(50));
         linkedList.showLinkedList();
         System.out.println("20元素后插入40————");
         linkedList.insertNode(new Node(40),30);
@@ -52,9 +49,6 @@ class SingleLinkedList{
                 break;
             if (temp.next.data==where){
                 temp=temp.next;
-                if(node==temp.next){
-                    throw new RuntimeException("已经添加该对象无法重复添加");
-                }
                 node.next=temp.next;
                 temp.next=node;
                 flag=true;
