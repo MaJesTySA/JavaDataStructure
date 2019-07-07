@@ -21,3 +21,5 @@
 
 [循环链表](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/CircleLinkedListDemo.java)
 
+- [约瑟夫问题](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/Josepfu.java)
+
