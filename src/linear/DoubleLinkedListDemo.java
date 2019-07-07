@@ -12,19 +12,19 @@ public class DoubleLinkedListDemo {
         linkedList.addNode(new DoubleNode(70));
         linkedList.addNode(new DoubleNode(80));
         linkedList.showLinkedList();
-        System.out.println("修改——将20修改成22");
+        System.out.println("\n修改——将20修改成22");
         linkedList.updateNode(new DoubleNode(22),20);
         linkedList.showLinkedList();
-        System.out.println("删除——删除60");
+        System.out.println("\n删除——删除60");
         linkedList.deleteNode(60);
         linkedList.showLinkedList();
-        System.out.println("删除——删除80");
+        System.out.println("\n删除——删除80");
         linkedList.deleteNode(80);
         linkedList.showLinkedList();
-        System.out.println("插入——在30后面插入33");
+        System.out.println("\n插入——在30后面插入33");
         linkedList.insertNode(new DoubleNode(33),30);
         linkedList.showLinkedList();
-        System.out.println("插入——在50后面插入55");
+        System.out.println("\n插入——在50后面插入55");
         linkedList.insertNode(new DoubleNode(55),50);
         linkedList.showLinkedList();
 
@@ -87,7 +87,7 @@ class DoubleLinkedList{
         if (!flag) throw new RuntimeException("没有找到相应元素");
     }
 
-    //删除
+    //根据元素数值删除
     public void deleteNode(int where){
         if (head.next==null) throw new RuntimeException("链表为空，不能删除");
         DoubleNode temp=head;
@@ -119,7 +119,7 @@ class DoubleLinkedList{
         while(true){
             if (temp==null)
                 break;
-            System.out.println(temp.data);
+            System.out.printf("%d ",temp.data);
             temp=temp.next;
         }
     }
