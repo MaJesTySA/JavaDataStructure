@@ -19,3 +19,5 @@
 
 [双链表](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/DoubleLinkedListDemo.java>)
 
+[循环链表](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/CircleLinkedListDemo.java)
+
