@@ -1,25 +1,27 @@
 ## 数组
 
-[稀疏数组](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/SparseArray.java>)
+[稀疏数组](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/array/SparseArray.java)
 
 ## 队列
 
-[循环队列](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/CircleArrayQueueDemo.java>)
+[队列](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/queue/ArrayQueueDemo.java)
+
+[循环队列](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/queue/CircleArrayQueueDemo.java>)
 
 ## 链表
 
-[单链表](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/SingleLinkedListDemo.java>)
+[单链表](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/linkedlist/SingleLinkedListDemo.java>)
 
-[单链表练习](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/SingleLinkedListExcercise.java>)
+[单链表练习](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/linkedlist/SingleLinkedListExcercise.java>)
 
 - 求出节点个数
 - 查找倒数第k个节点
 - 单链表反转
 - 逆袭遍历
 
-[双向链表](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/DoubleLinkedListDemo.java>)
+[双向链表](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/linkedlist/DoubleLinkedListDemo.java>)
 
-[循环链表](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/CircleLinkedListDemo.java)
+[循环链表](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/linkedlist/CircleLinkedListDemo.java)
 
-- [约瑟夫问题](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/Josepfu.java)
+- [约瑟夫问题](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/linkedlist/Josepfu.java)
 
