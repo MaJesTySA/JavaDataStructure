@@ -27,6 +27,6 @@
 
 ## 栈
 
-[线性栈]()
+[线性栈](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/ArrayStackDemo.java)
 
 - [线性栈实现计算器](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/CalculatorStack.java)
