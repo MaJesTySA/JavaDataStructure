@@ -29,9 +29,11 @@
 
 [线性栈](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/ArrayStackDemo.java)
 
-- [线性栈实现计算器](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/CalculatorStack.java)
+- [中缀计算器](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/CalculatorStack.java)
+- [中缀转后缀/后缀计算器](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/PolandNotation.java)
 
 ## 待办
 
 - 单链表合并
-- 带括号的栈计数器
+- 链栈
+- 带括号的中缀栈计算器
