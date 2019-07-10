@@ -36,6 +36,8 @@
 
 [迷宫问题](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/recursion/migong/MiGong.java)
 
+[八皇后问题](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/recursion/eightqueen/EightQueen.java)
+
 ## 待办
 
 - 单链表合并
