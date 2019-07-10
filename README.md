@@ -32,8 +32,14 @@
 - [中缀计算器](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/CalculatorStack.java)
 - [中缀转后缀/后缀计算器](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/PolandNotation.java)
 
+## 递归
+
+[迷宫问题](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/recursion/migong/MiGong.java)
+
 ## 待办
 
 - 单链表合并
+- 单链表反转
 - 链栈
 - 带括号的中缀栈计算器
+- 迷宫问题最短路径
