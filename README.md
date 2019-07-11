@@ -29,6 +29,8 @@
 
 [线性栈](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/ArrayStackDemo.java)
 
+栈的应用
+
 - [中缀计算器](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/CalculatorStack.java)
 - [中缀转后缀/后缀计算器](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/PolandNotation.java)
 
@@ -37,6 +39,10 @@
 [迷宫问题](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/recursion/migong/MiGong.java)
 
 [八皇后问题](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/recursion/eightqueen/EightQueen.java)
+
+## 排序
+
+[冒泡排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/bubblesort/BubbleSort.java)
 
 ## 待办
 
