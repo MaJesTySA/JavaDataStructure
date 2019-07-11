@@ -29,8 +29,6 @@
 
 [线性栈](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/ArrayStackDemo.java)
 
-栈的应用
-
 - [中缀计算器](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/CalculatorStack.java)
 - [中缀转后缀/后缀计算器](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/stack/PolandNotation.java)
 
