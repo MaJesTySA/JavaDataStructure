@@ -42,6 +42,8 @@
 
 [冒泡排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/bubblesort/BubbleSort.java)
 
+[选择排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/selectsort/SelectSort.java)
+
 ## 待办
 
 - 单链表合并
