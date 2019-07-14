@@ -46,6 +46,8 @@
 
 [插入排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/insertsort/InsertSort.java)
 
+[希尔排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/shellsort/ShellSort.java)
+
 
 ## 待办
 
