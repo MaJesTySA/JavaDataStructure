@@ -44,6 +44,9 @@
 
 [选择排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/selectsort/SelectSort.java)
 
+[插入排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/insertsort/InsertSort.java)
+
+
 ## 待办
 
 - 单链表合并
