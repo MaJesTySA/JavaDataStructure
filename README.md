@@ -48,6 +48,8 @@
 
 [希尔排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/shellsort/ShellSort.java)
 
+[快速排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/quicksort/QuickSort.java)
+
 
 ## 待办
 
