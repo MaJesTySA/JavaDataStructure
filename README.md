@@ -50,6 +50,8 @@
 
 [快速排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/quicksort/QuickSort.java)
 
+[归并排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/mergesort/MergeSort.java)
+
 
 ## 待办
 
