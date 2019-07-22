@@ -11,10 +11,10 @@ public class SingleLinkedListDemo {
         linkedList.addNode(node3);
         linkedList.showLinkedList();
         System.out.println("20元素后插入40————");
-        linkedList.insertNode(new Node(40),30);
+        linkedList.insertNode2(new Node(40),50);
         linkedList.showLinkedList();
         System.out.println("40元素后插入66————");
-        linkedList.insertNode(new Node(66),40);
+        linkedList.insertNode2(new Node(66),40);
         linkedList.showLinkedList();
         System.out.println("修改50为70————");
         linkedList.updateNode(new Node(70),50);
@@ -69,6 +69,26 @@ class SingleLinkedList{
         if (!flag) throw new RuntimeException("没有找到相应元素");
     }
 
+    public void insertNode2(Node node,int where){
+        Node curNode=head;
+        boolean flag=false;
+        while (true){
+            if (curNode.next==null&&curNode.data!=where){
+                break;
+            }
+            if (curNode.data==where){
+                node.next=curNode.next;
+                curNode.next=node;
+                flag=true;
+                break;
+            }
+            curNode=curNode.next;
+        }
+        if (!flag){
+            System.out.println("没有找到相关元素");
+        }
+    }
+
     //修改
     public void updateNode(Node node, int where){
         Node temp=head;
@@ -110,12 +130,14 @@ class SingleLinkedList{
             return;
         }
         Node temp=head.next;
+        System.out.print("HEAD-->");
         while(true){
             if (temp==null)
                 break;
-            System.out.println(temp.data);
+            System.out.print(temp.data+"-->");
             temp=temp.next;
         }
+        System.out.println("NULL");
     }
 }
 
