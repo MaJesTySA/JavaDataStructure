@@ -17,7 +17,8 @@
 - 求出节点个数
 - 查找倒数第k个节点
 - 单链表反转
-- 逆袭遍历
+- 逆序遍历
+- 合并两个有序链表
 
 [双向链表](<https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/linear/linkedlist/DoubleLinkedListDemo.java>)
 
