@@ -62,8 +62,12 @@ public class SingleLinkedListExcercise {
         Node current=headNode.next;
         Node next=null;
         while(current!=null){
+            //先将当前节点的下一个节点提取出来
             next=current.next;
+            //再让reverseHead指向当前节点之前，需要将reverseHead.next赋给current.next，
+            //不然之前的链信息会丢失。
             current.next=reverseHead.next;
+            //再将当前节点插入到reverseHead.next，此时current.next就是之前reverseHead.next。
             reverseHead.next=current;
             current=next;
         }
