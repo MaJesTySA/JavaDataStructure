@@ -53,10 +53,10 @@
 
 [归并排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/mergesort/MergeSort.java)
 
+[堆排序](https://github.com/MaJesTySA/JavaDataStructure/blob/master/src/sort/heapsort/HeapSort.java)
 
 ## 待办
 
-- 单链表合并
 - 单链表反转
 - 链栈
 - 带括号的中缀栈计算器
